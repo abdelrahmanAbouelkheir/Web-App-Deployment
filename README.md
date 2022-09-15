@@ -36,4 +36,4 @@ Steps to test project
 This pipeline first installs node, elasticbeanstalk CLI and aws CLI then it executes the build job which starts by installing the needed packages for backend and front end , also it runs scripts for linting front end and building backend and front end to convert files to javascript. Then the deploy job starts by deploying the backend  on elasticbeanstalk environment then deploying the frontend by sending the files to S3 bucket.
 
 
-[1](documentation/pipline.md)----->[2](documentation/infrastructure.md)---->[3](documentation/app-dependencies.md)
+[1](documentation/pipeline.md)----->[2](documentation/infrastructure.md)---->[3](documentation/app-dependencies.md)
