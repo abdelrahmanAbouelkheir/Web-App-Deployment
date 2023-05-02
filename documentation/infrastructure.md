@@ -2,9 +2,7 @@
 
 ---
 
-# Udagram link
 
-http://testing13857395.s3-website-us-east-1.amazonaws.com.
 
 ### Infrastructure
 
