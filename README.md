@@ -1,7 +1,7 @@
 # Hosting a Full-Stack Application
 ##Intro
 
-   This project was related to my Advanced Full-Stack Web Development Nanodegree Program where I was given a local web application and I was asked to deploy it using aws 
+   This project is related to my Advanced Full-Stack Web Development Nanodegree Program where I was given a local web application and I was asked to deploy it using aws 
    services through analyzing the technology used to develop the app including programming language, packages used, needed components.My work is code is the package.json 
    added scripts for deployment, software architecture design and config.yml file for creating the pipeline. 
 
