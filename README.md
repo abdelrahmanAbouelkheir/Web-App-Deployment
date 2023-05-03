@@ -3,14 +3,14 @@
 
    This project is related to my Advanced Full-Stack Web Development Nanodegree Program where I was given a local web application and I was asked to deploy it using aws 
    services through analyzing the technology used to develop the app including programming language, packages used, needed components.My work is code is the package.json 
-   added scripts for deployment, software architecture design and config.yml file for creating the pipeline. 
+   added scripts for deployment, software architecture diagram design and config.yml file for creating the pipeline. 
 
 ---
 
 ## Screenshots
 <p float="left">
-  <img src="" width="400" height="350" />
- <img src="" width="400" height="350" />
+  <img src="https://github.com/abdelrahman32002/Web-App-Deployment/blob/main/screenshots/architecture-diagram.jpg?raw=true" width="700" height="350" />
+ <img src="https://github.com/abdelrahman32002/Web-App-Deployment/blob/main/screenshots/architecture-diagram.jpg?raw=true" width="400" height="350" />
  <br></br>
   <img src="" height="350" />
 <img src="" width="400" height="350" />
