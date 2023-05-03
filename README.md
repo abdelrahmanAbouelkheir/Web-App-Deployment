@@ -1,5 +1,5 @@
 # Hosting a Full-Stack Application
-##Intro
+## Intro
 
    This project is related to my Advanced Full-Stack Web Development Nanodegree Program where I was given a local web application and I was asked to deploy it using aws 
    services through analyzing the technology used to develop the app including programming language, packages used, needed components.My work is code is the package.json 
