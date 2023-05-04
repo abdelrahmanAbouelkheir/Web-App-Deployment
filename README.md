@@ -12,7 +12,7 @@
 1. software architecture diagram
 <p float="left">
   <img src="https://github.com/abdelrahman32002/Web-App-Deployment/blob/main/screenshots/architecture-diagram.jpg?raw=true" width="700" height="350" />
-   2. Pipeline diagram
+  2. Pipeline diagram
   <br></br>
  
  <img src="https://github.com/abdelrahman32002/Web-App-Deployment/blob/main/screenshots/pipline.jpg?raw=true" width="700" height="350" />
