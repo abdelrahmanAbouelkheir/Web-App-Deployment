@@ -18,7 +18,7 @@
  
  <img src="https://github.com/abdelrahman32002/Web-App-Deployment/blob/main/screenshots/pipline.jpg?raw=true" width="700" height="350" />
  
-
+---
 ### Pipeline
 
   <img src="https://github.com/abdelrahman32002/Web-App-Deployment/blob/main/screenshots/sub1.png?raw=true" />
